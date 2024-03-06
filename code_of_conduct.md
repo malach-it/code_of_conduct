@@ -1,24 +1,24 @@
 # Code of Conduct
 
-1. Why share this code of conduct?
+## 1. Why share this code of conduct?
 
 A code of conduct aims to set the frame of community interactions around the corresponding open-source product. As collective work is at stake here, getting into it requires fitting the rules that make a safe and well-being place to work. This document aims the community wellness to give us the best opportunities to produce the relative facts and deliverables. From this perspective, the need for us to navigate with psychological safety is a must-have to deliver the best we can to improve and make evolve the code at the heart of the community.
 
-2. What is a violation?
+## 2. What is a violation?
 
 The purpose of this document is to set the limits and how to mitigate when violations occur. First of all, any violation of applicable law is to be reported for the healthiness of our interactions. We would make focus on harassment and all kind of discrimination against ancestry, age, color, religion, caste, origin, race, personal appearance, nationality, socio-economic status, level of experience, gender identity and expression, sex characteristics, ethnicity, sexual identity and orientation, visible or invisible disability, body size, and other private or personal information that can be used for harming purposes.
 
-3. What is a contribution?
+## 3. What is a contribution?
 
 Are considered contributions, the produced code and all derived material propagated under the copyright provided by this repository of code. Other material out of this scope is not considered contributions to this project and we do have not any responsibility for them. Also, any official representation of the product may be considered as a contribution. Those are to be validated by the owners of the project.
 
-4. In accordance with the product vision
+## 4. In accordance with the product vision
 
 The contributions to this project may fit its vision, all contributions that may diverge from it would be considered as violations if not consented by the owner. The vision of the project is stated as :
 
 [vision]
 
-5. The roles and responsibilities of contributors
+## 5. The roles and responsibilities of contributors
 
 Within this frame arise three main responsibilities. From those can be derived roles that have to fulfill all of them within the community. The objective of them is to help community wellness.
 
@@ -32,7 +32,7 @@ Once again, it is an overall responsibility to report the issues as it is the ba
 
 For example, the minimal roles within a community around an open-source project start with an owner. The project owner can take both mediator and facilitator of escalation responsibilities. Those can be split then and spread across the community knowing that the responsibilities do not have to be unique within the community. Finding suitable roles according to the needed responsibilities of this framework is a work that may include community members to find a collective track toward them.
 
-6. Escalation of violations
+## 6. Escalation of violations
 
 Based on IT incident report patterns, escalation of violations aims to find the root cause, fix the issue, and prevent its reappearance. Also, one of the objectives is to avoid conflict between parties and find equitable solutions to solve the issue. For that, the mediation may be made using methodology such as Non-Violent Communication to enforce communication over violence being factual as a basis.
 
@@ -42,7 +42,7 @@ Then comes the mediation, for a low-importance violation, the mediator can facil
 
 In case of grave violation like any against applicable law, the authorities are to be warned and the overall community has the duty to facilitate their work.
 
-7. Ethical goals
+## 7. Ethical goals
 
 This frame of contributions may help to promote ethical goals. Before this, contributions may not imply in any manner a step against those goals, knowing that going toward them aims for us to live in a better place which is the purpose of the current document. This community aims to:
 
@@ -57,4 +57,4 @@ The frame helps to have the tools to get mutual aid to go toward those goals.
 OWNER CONTACT:
 [contact]
 
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial-ShareAlike 4.0 International</a></p>
