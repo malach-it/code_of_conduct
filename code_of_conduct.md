@@ -10,7 +10,7 @@ The purpose of this document is to set the limits and how to mitigate when viola
 
 ## 3. What is a contribution?
 
-Are considered contributions, the produced code and all derived material propagated under the copyright provided by this repository of code. Other material out of this scope is not considered contributions to this project and we do have not any responsibility for them. Also, any official representation of the product may be considered as a contribution. Those are to be validated by the owners of the project.
+Are considered contributions, the produced code and all derived material propagated under the copyright provided by this repository of code. Other material out of this scope is not considered contributions to this project and we do have not any responsibility for them. Also, any official representation of the product may be considered as a contribution. Those need a written validation from the owners of the project.
 
 ## 4. In accordance with the product vision
 
