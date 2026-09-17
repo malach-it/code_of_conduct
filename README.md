@@ -4,8 +4,8 @@ This code of conduct is under creative common license and aims to "set the frame
 
 ## About Codes of Conduct
 
-Codes of Conducts are part of open-source communities artifacts made to rule the interactions around a product. They do not have any legal value but ethical helping the people better apprehend their work while contributing to a project.
+Codes of Conducts are part of open-source communities artifacts made to rule the interactions around a product. They express ethical community standards, are not intended to create independent legal obligations, and do not replace applicable law or legal rights and obligations.
 
-## Disclamer
+## Disclaimer
 
-This code of conduct has not been written by a lawyer but by an open-source contributor looking for good.
+This code of conduct was created by an open-source contributor looking for good and is intended as an ethical community framework rather than a legal instrument.
